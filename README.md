@@ -12,6 +12,7 @@ Pull requests welcome.
 |[Doing with images makes symbols](https://www.youtube.com/watch?v=6ZdxiQoOBgs)|Lecutre that covers historical magical UXs.|
 |[Holograph](https://github.com/dennishansen/holograph)|Visual programming tool buit with tldraw.|
 |[Keepin' It Real](https://www.youtube.com/watch?v=j_lxBwvf3Vk)|Extension of the desktop metaphor.|
+|[Media for Thinking the Unthinkable](https://vimeo.com/67076984)|Presentation about having different, dynamic representations for the same data.|
 |[Microchord](https://github.com/ryansb/microchord)|Chorded keyboard inspired by Engelbart's microwriter.|
 |[TempleOS](https://templeos.org/)|Operating system where hyperlinks, 2D sprites and 3D animations can exist directly in source files and the terminal.|
 |[Visual Language Research Bibliography](https://web.engr.oregonstate.edu/~burnett/vpl.html)|Bibliography of visual language papers.|
